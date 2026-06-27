@@ -32,19 +32,25 @@ Tasks Completed:
 * Created data dictionary documentation
 
 
-## Project Structure
 
-```text
-data/
-├── raw/
-└── processed/
+## Day 3 – Exploratory Data Analysis
 
-src/
-sql/
-dashboard/
-notebooks/
-reports/
-```
+### Completed Work
+
+* Performed exploratory data analysis on the cleaned mutual fund datasets.
+* Created interactive Plotly visualizations for NAV trends and SIP inflows.
+* Built Seaborn visualizations for AUM growth, category inflows, investor demographics, geographic distribution, folio growth, return correlation, and sector allocation.
+* Added analytical insights for each visualization.
+* Exported all charts into the `charts/` directory.
+
+### Technologies Used
+
+* Python
+* Pandas
+* Matplotlib
+* Seaborn
+* Plotly
+
 
 ## Author
 
