@@ -33,7 +33,7 @@ Tasks Completed:
 
 
 
-## Day 3 – Exploratory Data Analysis
+## Day 3 – Exploratory Data Analysis ✅
 
 ### Completed Work
 
@@ -51,6 +51,27 @@ Tasks Completed:
 * Seaborn
 * Plotly
 
+## Day 4 – Fund Performance Analytics ✅
+
+### Completed Work
+
+- Computed daily returns for all mutual fund schemes using NAV history.
+- Calculated CAGR for 1-year, 3-year, and available historical period (~4.4 years).
+- Computed Sharpe Ratio and Sortino Ratio to evaluate risk-adjusted performance.
+- Calculated Alpha and Beta using NIFTY100 benchmark returns.
+- Analyzed Maximum Drawdown and identified worst drawdown periods.
+- Generated a composite Fund Scorecard (0–100) based on return, Sharpe ratio, Alpha, expense ratio, and maximum drawdown rankings.
+- Compared the top 5 funds against NIFTY50 and NIFTY100 using a normalized benchmark performance chart.
+- Computed Tracking Error for the top-performing funds.
+- Exported analysis results as CSV files and saved benchmark comparison charts.
+
+### Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- SciPy
+- Matplotlib
 
 ## Author
 
