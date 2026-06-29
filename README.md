@@ -73,6 +73,34 @@ Tasks Completed:
 - SciPy
 - Matplotlib
 
+## Day 5 – Power BI Dashboard Development ✅
+
+### Dashboard Pages
+
+* Industry Overview
+* Fund Performance
+* Investor Analytics
+* SIP & Market Trends
+
+### Features
+
+* KPI Cards
+* Interactive Charts
+* Scatter Plot Analysis
+* Fund Scorecard
+* Drill-through Navigation
+* Dynamic Slicers
+* Default Tooltips
+* Relationship-based Data Model
+
+### Deliverables
+
+* `dashboard/bluestock_mf_dashboard.pbix`
+* `dashboard/Dashboard.pdf`
+* Dashboard PNG Screenshots
+
+
+
 ## Author
 
 Lokesh 👨‍💻
