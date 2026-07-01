@@ -100,6 +100,25 @@ Tasks Completed:
 * Dashboard PNG Screenshots
 
 
+## Day 6 - Advanced Analytics & Risk Metrics ✅
+Implemented advanced financial analytics to evaluate fund risk, investor behavior, and portfolio diversification.
+
+### Features
+- Historical Value at Risk (VaR) and Conditional Value at Risk (CVaR)
+- Rolling 90-Day Sharpe Ratio Analysis
+- Investor Cohort Analysis
+- SIP Continuity Analysis
+- Mutual Fund Recommendation Engine
+- Sector Concentration Analysis using Herfindahl-Hirschman Index (HHI)
+
+### Outputs
+- `var_cvar_report.csv`
+- `rolling_sharpe_chart.png`
+- `cohort_analysis.csv`
+- `sip_continuity_report.csv`
+- `sector_hhi.csv`
+- `recommender.py`
+
 
 ## Author
 
